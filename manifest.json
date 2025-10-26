@@ -9,12 +9,13 @@
   "icons": [
     {
       "src": "assets/ds.webp",
-      "type": "image/png",
+      "type": "image/webp",
       "sizes": "192x192"
+      "purpose": "any"
     },
     {
       "src": "assets/ds.webp",
-      "type": "image/png",
+      "type": "image/webp",
       "sizes": "512x512"
     }
   ],
@@ -34,19 +35,19 @@
   "screenshots": [
     {
       "src": "assets/ds.webp",
-      "type": "image/png",
+      "type": "image/webp",
       "sizes": "540x720",
       "form_factor": "narrow"
     },
     {
       "src": "assets/ds.webp",
-      "type": "image/png",
+      "type": "image/webp",
       "sizes": "540x720",
       "form_factor": "narrow"
     },
     {
       "src": "assets/ds.webp",
-      "type": "image/png",
+      "type": "image/webp",
       "sizes": "720x540",
       "form_factor": "wide"
     }
